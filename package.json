@@ -1,0 +1,23 @@
+{
+  "name": "weatherappnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiflore/WeatherAppNode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wiflore/WeatherAppNode/issues"
+  },
+  "homepage": "https://github.com/wiflore/WeatherAppNode#readme"
+}
